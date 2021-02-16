@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-- ***The standar port is COM4, you might need to change it in windows.js, still working on it...***
+- ***The standard port is COM4, you might need to change it in windows.js, still working on it...***
 - ***The serial output needs to be just like the next example:***
 
 - Example; exposing the sensor to heat and cold:

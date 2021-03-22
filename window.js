@@ -2,6 +2,7 @@ const SerialPort = require("serialport");
 const Readline = require("@serialport/parser-readline");
 const tableify = require("tableify");
 var COM;
+//correções precisam ser feitas
 
 SerialPort.list().then((ports) => {
   ports.forEach(function (porta) {
